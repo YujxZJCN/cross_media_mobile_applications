@@ -1,0 +1,111 @@
+package hiai.plx.huawei.nlu;
+
+import java.util.HashMap;
+import java.util.Map;
+
+// data用于储存标签和词性的映射
+public final class data {
+    public static Map<String, String> tagNameMap = new HashMap<>();
+    static {
+        tagNameMap.put("n", "名词");
+        tagNameMap.put("nr", "人名");
+        tagNameMap.put("ns", "地名");
+        tagNameMap.put("ne", "实体");
+        tagNameMap.put("uguo", "助词“过”");
+        tagNameMap.put("t", "时间");
+        tagNameMap.put("tg", "时间语素");
+        tagNameMap.put("s", "处所词");
+        tagNameMap.put("f", "方位词");
+        tagNameMap.put("v", "动词");
+        tagNameMap.put("vd", "副动词");
+        tagNameMap.put("vn", "名动词");
+        tagNameMap.put("vshi", "动词“是”");
+        tagNameMap.put("vyou", "动词“有”");
+        tagNameMap.put("vf", "趋向动词");
+        tagNameMap.put("a", "形容词");
+        tagNameMap.put("ad", "副形词");
+        tagNameMap.put("an", "名形词");
+        tagNameMap.put("b", "区别词");
+        tagNameMap.put("bl", "区别词性惯用语");
+        tagNameMap.put("z", "状态词");
+        tagNameMap.put("r", "代词");
+        tagNameMap.put("w", "符号");
+        tagNameMap.put("rr", "人称代词");
+        tagNameMap.put("rz", "指示代词");
+        tagNameMap.put("rzt", "时间指示代词");
+        tagNameMap.put("rzv", "谓词性指示代词");
+        tagNameMap.put("rzs", "处所指示代词");
+        tagNameMap.put("ry", "疑问代词");
+        tagNameMap.put("ryt", "时间疑问代词");
+        tagNameMap.put("rys", "处所疑问代词");
+        tagNameMap.put("ryv", "谓词性疑问代词");
+        tagNameMap.put("rg", "代词性语素");
+        tagNameMap.put("m", "数词");
+        tagNameMap.put("mq", "数量词");
+        tagNameMap.put("q", "量词");
+        tagNameMap.put("qv", "动量词");
+        tagNameMap.put("qt", "时量词");
+        tagNameMap.put("d", "副词");
+        tagNameMap.put("p", "介词");
+        tagNameMap.put("pba", "介词“把”");
+        tagNameMap.put("pbei", "介词“被”");
+        tagNameMap.put("c", "连词");
+        tagNameMap.put("cc", "并列连词");
+        tagNameMap.put("u", "助词");
+        tagNameMap.put("uzhe", "助词“着”");
+        tagNameMap.put("ule", "助词“了”");
+        tagNameMap.put("uguo", "助词“过”");
+        tagNameMap.put("ude1", "助词“的”");
+        tagNameMap.put("ude2", "助词“地”");
+        tagNameMap.put("ude3", "助词“得”");
+        tagNameMap.put("usuo", "助词“所”");
+        tagNameMap.put("udeng", "助词“等”");
+        tagNameMap.put("uyy", "助词“一样”");
+        tagNameMap.put("udh", "助词“的话”");
+        tagNameMap.put("uls", "助词“的话”");
+        tagNameMap.put("uzhi", "助词“之”");
+        tagNameMap.put("uzhi", "助词“连”");
+        tagNameMap.put("e", "叹词");
+        tagNameMap.put("y", "语气词");
+        tagNameMap.put("o", "拟声词");
+        tagNameMap.put("h", "前缀");
+        tagNameMap.put("k", "后缀");
+        tagNameMap.put("x", "字符串");
+        tagNameMap.put("idiom", "成语");
+    }
+
+    // 实体映射表
+    public static Map<String, String> entityNameMap = new HashMap<>();
+    static {
+        entityNameMap.put("time", "时间");
+        entityNameMap.put("location", "地点");
+        entityNameMap.put("name", "人名");
+        entityNameMap.put("phoneNum", "电话号码");
+        entityNameMap.put("email", "邮箱");
+        entityNameMap.put("url", "url");
+        entityNameMap.put("movie", "电影");
+        entityNameMap.put("tv", "电视剧");
+        entityNameMap.put("varietyshow", "综艺");
+        entityNameMap.put("anime", "动漫");
+        entityNameMap.put("league", "联赛");
+        entityNameMap.put("team", "球队");
+        entityNameMap.put("music", "单曲");
+        entityNameMap.put("musicAlbum", "专辑");
+        entityNameMap.put("singer", "歌手");
+        entityNameMap.put("trainNo", "火车车次");
+        entityNameMap.put("flightNo", "航班号");
+        entityNameMap.put("expressNo", "快递单号");
+        entityNameMap.put("idNo", "证件号");
+        entityNameMap.put("verificationCode", "验证码");
+        entityNameMap.put("app", "手机应用");
+        entityNameMap.put("carNo", "车牌号");
+        entityNameMap.put("bankCardNo", "银行卡号");
+        entityNameMap.put("book", "图书");
+        entityNameMap.put("cate", "菜名");
+        entityNameMap.put("famousBrand", "名牌");
+        entityNameMap.put("stockName", "股票名");
+        entityNameMap.put("stockCode", "股票代码");
+        entityNameMap.put("fundName", "基金名");
+        entityNameMap.put("fundCode", "基金代码");
+    }
+}

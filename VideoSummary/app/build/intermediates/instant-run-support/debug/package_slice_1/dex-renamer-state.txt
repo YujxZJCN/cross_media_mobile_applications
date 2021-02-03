@@ -1,0 +1,4 @@
+#Wed Sep 23 13:29:25 CST 2020
+base.0=/Users/yeyuqing/AndroidStudioProjects/VideoSummaryDemo/app/build/intermediates/transforms/dexMerger/debug/20
+renamed.0=classes.dex
+file.0=/Users/yeyuqing/AndroidStudioProjects/VideoSummaryDemo/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex

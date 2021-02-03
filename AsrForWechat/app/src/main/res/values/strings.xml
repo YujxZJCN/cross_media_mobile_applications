@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HiAI-ASR</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="file_not_found">The sd card is not available</string>
+    <string name="file_item">item</string>
+    <string name="file_file_size">size : </string>
+
+    <string name="tryit">喵喵～\n小猫咪今天心情怎么样呀～</string>
+</resources>

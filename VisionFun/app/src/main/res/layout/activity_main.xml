@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 图像显示框 -->
+    <ImageView
+        android:id="@+id/imgMain"
+        android:layout_width="142dp"
+        android:layout_height="200dp"
+        tools:srcCompat="@tools:sample/avatars[1]" />
+    <!-- 图像传入按钮 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnCamera"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="拍照"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+             />
+        <Button
+            android:id="@+id/btnGallery"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="选取"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+             />
+    </LinearLayout>
+    <!-- 功能选择下拉框 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+    <Spinner
+        android:id="@+id/lstFirst"
+        android:layout_width="400px"
+        android:layout_height="32dp"
+        android:background="@android:color/holo_green_light"
+        />
+    <Spinner
+        android:id="@+id/lstSecond"
+        android:layout_width="400px"
+        android:layout_height="32dp"
+        android:layout_marginLeft="10px"
+        android:background="@android:color/holo_green_light" />
+    </LinearLayout>
+    <!-- 执行按钮 -->
+    <Button
+        android:id="@+id/btnRun"
+        android:layout_width="77dp"
+        android:layout_height="40dp"
+        android:text="执行"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+         />
+    <!-- 文本显示框 -->
+    <TextView
+        android:id="@+id/txtOutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_purple"
+        android:text="我们一起 FUN 一下"
+        />
+</LinearLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">VideoSummaryDemo</string>
+
+    <string name="load_image">load image</string>
+    <string name="capture_image">capture image</string>
+    <string name="load_video">load video</string>
+    <string name="new_video">get new video</string>
+    <string name="get_video_score">get score</string>
+    <string name="capture_video">capture video</string>
+
+    <string name="image_Activity">ImageScore</string>
+    <string name="video_Activity">VideoScore</string>
+    <string name="static_Activity">StaticCover</string>
+    <string name="live_Activity">LiveCover</string>
+    <string name="summary_Activity">Summary</string>
+    <string name="summary_with_score">Summary With Score</string>
+    <string name="status_idle">空闲队列</string>
+    <string name="status_queue">已入队列</string>
+    <string name="status_startprocess">开始处理</string>
+    <string name="status_processing">正在处理....</string>
+    <string name="status_processcomplete">处理完成</string>
+    <string name="select_image">选择图片</string>
+    <string name="select_video">选择视频</string>
+    <string name="button_text_ok">OK</string>
+    <string name="data_details">数据详情</string>
+    <string name="mp4_file_ext">.mp4</string>
+    <string name="avi_file_ext">.avi</string>
+    <string name="predicting">Predicting...</string>
+    <string name="wait">Wait for one sec...</string>
+    <string name="data_log_path">数据详情在日志文件。log_Path:</string>
+    <string name="async">async</string>
+    <string name="sync">sync</string>
+    <string name="video_power">视频功耗</string>
+</resources>

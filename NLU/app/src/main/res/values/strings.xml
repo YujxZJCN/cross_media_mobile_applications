@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NLU_DEMO</string>
+    <string name="input_text_is_null">输入内容不能为空</string>
+    <string name="input_text_not_support">很抱歉，文字功能未识别</string>
+</resources>

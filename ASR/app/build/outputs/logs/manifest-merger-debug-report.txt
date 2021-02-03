@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [:huawei-hiai-asr:] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/huawei-hiai-asr.aar/47d842133f15f698063855766fef3c59/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/247ecb04ccf781ed1f5af73a0c9f4b5c/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:9:22-70
+application
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:12:5-31:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.huawei.asrdemo.MainActivity
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:19:9-29:20
+	android:label
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+MERGED from [:huawei-hiai-asr:] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/huawei-hiai-asr.aar/47d842133f15f698063855766fef3c59/AndroidManifest.xml:7:5-9:41
+MERGED from [:huawei-hiai-asr:] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/huawei-hiai-asr.aar/47d842133f15f698063855766fef3c59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/247ecb04ccf781ed1f5af73a0c9f4b5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/247ecb04ccf781ed1f5af73a0c9f4b5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yeyuqing/AndroidStudioProjects/AsrDemoNew/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/247ecb04ccf781ed1f5af73a0c9f4b5c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/247ecb04ccf781ed1f5af73a0c9f4b5c/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/a9d29bcf539b05fbbe05f1a02674cb69/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/18b0feda8f9ab9831f1dda1bf3d7c627/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/1033b97d9870b7a72cb7964233f350ab/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/e6be7deea6741c270c1009a8dd2180f2/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/991023522422e048d48e279429890575/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/6df0d5483616a7f996c9a0bf959064ee/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/d03e232bea185f0e26caca51dde106c7/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40b33ebdeb5346eda08e39f0241901f4/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/yeyuqing/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/415e24dc5e414f88186295847223c4cf/AndroidManifest.xml:26:9-47

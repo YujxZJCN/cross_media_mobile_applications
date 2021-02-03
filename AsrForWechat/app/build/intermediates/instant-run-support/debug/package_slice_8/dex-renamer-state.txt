@@ -1,0 +1,4 @@
+#Sat Oct 31 14:34:29 CST 2020
+base.0=/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex

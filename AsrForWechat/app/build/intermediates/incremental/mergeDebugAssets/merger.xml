@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/src/main/assets"><file name="pcm/16k.pcm" path="/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/src/main/assets/pcm/16k.pcm"/></source><source path="/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/yeyuqing/AndroidStudioProjects/Asr_for_wechat/app/src/debug/assets"/></dataSet></merger>
